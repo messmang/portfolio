@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7a7fe622.css",
-    "main.js": "/portfolio/static/js/main.8c556940.js",
+    "main.js": "/portfolio/static/js/main.a24ef0f3.js",
     "static/js/453.4eadf94a.chunk.js": "/portfolio/static/js/453.4eadf94a.chunk.js",
     "static/media/zuzu-bg.png": "/portfolio/static/media/zuzu-bg.b3150fddb98accb16bd3.png",
     "static/media/sh-bg.png": "/portfolio/static/media/sh-bg.ad3e50e3ceb4bd2953ad.png",
     "static/media/zuzu-m-bg.png": "/portfolio/static/media/zuzu-m-bg.2cdd33ed520dacb503a7.png",
-    "static/media/drive-bg.png": "/portfolio/static/media/drive-bg.10063f5967d0e3abfe7b.png",
+    "static/media/drive-bg.png": "/portfolio/static/media/drive-bg.c4cb7661e69b531eec22.png",
     "static/media/zuzu-summary.png": "/portfolio/static/media/zuzu-summary.b4778480b4374265d6ea.png",
     "static/media/finder-symbol.svg": "/portfolio/static/media/finder-symbol.2ec55446276a8cc996e3281d9d0c6ca3.svg",
     "index.html": "/portfolio/index.html",
     "main.7a7fe622.css.map": "/portfolio/static/css/main.7a7fe622.css.map",
-    "main.8c556940.js.map": "/portfolio/static/js/main.8c556940.js.map",
+    "main.a24ef0f3.js.map": "/portfolio/static/js/main.a24ef0f3.js.map",
     "453.4eadf94a.chunk.js.map": "/portfolio/static/js/453.4eadf94a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a7fe622.css",
-    "static/js/main.8c556940.js"
+    "static/js/main.a24ef0f3.js"
   ]
 }
